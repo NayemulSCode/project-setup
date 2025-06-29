@@ -44,8 +44,10 @@ my-vite-app/
 <!-- git command -->
 git clone remote_url
 git init
+git status
 git add .
 git commit -m"message"
 git pull origin "branch_name"
 git push -u origin master or main
+git push origin dev_test
 git stash
